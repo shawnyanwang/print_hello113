@@ -7,7 +7,7 @@ config = {
     'description': 'The funniest joke in the world',
     'author': 'Shawnyanwang',
     'url': 'URL to get it at.',
-    'download_url': 'Where to download it.',
+    'download_url': 'https://github.com/shawnyanwang/print_hello113',
     'author_email': 'shawnyanwang@gmail.com',
     'version': '0.1',
     'install_requires': ['nose'],
