@@ -1,9 +1,0 @@
-setup.cfg
-setup.py
-print_hello113/__init__.py
-print_hello113/print_hello113.py
-print_hello113/print_hello113_tests.py
-print_hello113.egg-info/PKG-INFO
-print_hello113.egg-info/SOURCES.txt
-print_hello113.egg-info/dependency_links.txt
-print_hello113.egg-info/top_level.txt
